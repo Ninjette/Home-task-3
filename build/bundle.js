@@ -91,7 +91,7 @@
 	  var numVal = Number(value);
 	  if (!isNaN(numVal)) {
 	    return true;
-	  }
+	  };
 	};
 
 	var parseInput = function parseInput(input) {
